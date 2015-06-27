@@ -1,0 +1,48 @@
+.nav{
+	position: fixed;
+	padding: 0;
+	margin: -8px;
+	width: 100%;
+	float: left;
+	background: black;
+}
+.Mleft{
+	float: left;
+	margin: 0px;
+	height: 4px;
+	padding-top: 1px;
+	padding-left: -20px;
+}
+.left{
+	margin:0px auto;
+	height: 4px;
+	padding:1px 2px 15px 10px;
+	color: black;
+	float: left;
+}
+.right{
+	height: 4px;
+	padding-right: 28px;
+	float:right;
+}
+.nav ul a{
+	font-family: arial;
+	
+	line-height: 3px;
+	width: 80%;
+ 	color: #D3D3D3;
+ 	font-size: 15px;
+ 	text-align: center;
+ 	display: block;
+ 	text-decoration: none;
+}
+.nav ul a:hover{
+	color: white;
+
+}
+.input{
+	width: 600px;
+ 	height: 28px;
+	display: block;
+	font-family: arial;
+}
